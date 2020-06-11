@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zeAODIyuYm0pelfcYJI0z2ch/fyBSmCkAsah/YYpXP+cNl+cyIUqpeq5AJvqdWmKVlne2oAULV9j6X4+2J59XQ==",
+  "dgSpecHash": "3tXwPPlKiGVX/EnCjHPaSX+SK+evUiMQMR2C+Y38HAgyKPOMy3+ey7eTbwgUvLzSkAjlXZhfRD83AlHXJ5xs1w==",
   "success": true,
   "projectFilePath": "C:\\Users\\cristina\\source\\repos\\cristina-b\\DotNetTraining\\DotNet2\\DotNet2.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\cristina\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -5,7 +5,7 @@ using System.Text;
 
 namespace DotNet2
 {
-    enum RoomType
+    public enum RoomType
     {
         singleRoom,
         doubleRoom,
@@ -14,7 +14,7 @@ namespace DotNet2
         suite
     }
 
-    enum Currency
+    public enum Currency
     {
         RON,
         EUR,
@@ -22,7 +22,7 @@ namespace DotNet2
         GBP
     }
 
-    class Rate
+    public class Rate
     {
         public double Amount { get; private set; }
         public Currency Currency { get; private set; }
@@ -39,7 +39,7 @@ namespace DotNet2
         }
     }
 
-    class Room
+    public class Room
     {
         public string Name { get; private set; }
         public int Adults { get; set; }
@@ -75,7 +75,7 @@ namespace DotNet2
         }
     }
 
-    class Hotel
+    public class Hotel
     {
         public string Name { get; private set; }
         public string City { get; private set; }

@@ -1,0 +1,13 @@
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet4\bin\Debug\netcoreapp3.1\DotNet4.exe
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet4\bin\Debug\netcoreapp3.1\DotNet4.deps.json
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet4\bin\Debug\netcoreapp3.1\DotNet4.runtimeconfig.json
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet4\bin\Debug\netcoreapp3.1\DotNet4.runtimeconfig.dev.json
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet4\bin\Debug\netcoreapp3.1\DotNet4.dll
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet4\bin\Debug\netcoreapp3.1\DotNet4.pdb
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet4\obj\Debug\netcoreapp3.1\DotNet4.csprojAssemblyReference.cache
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet4\obj\Debug\netcoreapp3.1\DotNet4.AssemblyInfoInputs.cache
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet4\obj\Debug\netcoreapp3.1\DotNet4.AssemblyInfo.cs
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet4\obj\Debug\netcoreapp3.1\DotNet4.csproj.CoreCompileInputs.cache
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet4\obj\Debug\netcoreapp3.1\DotNet4.dll
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet4\obj\Debug\netcoreapp3.1\DotNet4.pdb
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet4\obj\Debug\netcoreapp3.1\DotNet4.genruntimeconfig.cache
