@@ -1,9 +1,8 @@
-namespace DecoratorCoffeeShop.Contracts
-{
-
+namespace DecoratorCoffeeShop
+{ 
     public interface ICoffee
     {
-        string Description;
-        double Price;
+        string GetDescription();
+        double GetPrice();
     }
 }

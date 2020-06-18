@@ -10,6 +10,16 @@ namespace DecoratorCoffeeShop
         public Decorator(ICoffee icoffee)
         {
             coffee = icoffee;
-        }        
+        }
+
+        public string GetDescription()
+        {
+            return Description;
+        }
+
+        public double GetPrice()
+        {
+            return Price;
+        }
     }
 }

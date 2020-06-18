@@ -4,7 +4,7 @@ namespace DependencyInversionDatabaseAfter
 {
     public class Courses
     {
-        private Data database;        
+        private readonly Data database;        
 
         public Courses(Data db)
         {

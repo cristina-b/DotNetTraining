@@ -1,10 +1,12 @@
+using System;
+
 namespace StrategyFileEncrypt
 { 
     public class ToDisk : IEncrypt
     {
-        public void encrypt()
+        public void Encrypt(string FileName)
         {
-            //encrypt 
+            Console.WriteLine("To disk encryption");
         }
     }
 }

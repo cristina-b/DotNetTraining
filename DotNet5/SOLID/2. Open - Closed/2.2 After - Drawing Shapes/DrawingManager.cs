@@ -1,26 +1,16 @@
 namespace OpenClosedDrawingShapesAfter
 {
     using OpenClosedDrawingShapesAfter.Contracts;
+    using System.Collections.Generic;
 
-    public class DrawingManager : IDrawingManager
+    public class DrawingManager : DrawManager
     {
-        /*public void Draw(IShape shape)
-        {
-            if (shape is Circle)
-            {
-                this.DrawCircle(shape as Circle);
-            }
-            else if (shape is Rectangle)
-            {
-                this.DrawRectangle(shape as Rectangle);
-            }
-        }*/
+        private List<IShape> shapeList;        
 
-        private void Draw()
+        public override void DrawShapes()
         {
-            // Draw Rectangle
+            foreach (IShape shape in shapeList)
+                shape.Draw();
         }
-
-        
     }
 }

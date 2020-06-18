@@ -1,7 +1,9 @@
-namespace StrategyFileEncrypt.Contract
+using System.IO;
+
+namespace StrategyFileEncrypt
 {
-    public class IEncrypt
+    public interface IEncrypt
     {
-        public void encrypt();
+        public void Encrypt(string fileName);
     }
 }

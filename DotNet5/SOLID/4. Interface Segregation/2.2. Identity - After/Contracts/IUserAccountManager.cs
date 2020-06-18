@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+
 namespace InterfaceSegregationIdentityAfter.Contracts
 {
     public interface IUserAccountManager

@@ -1,10 +1,13 @@
+using System;
+using System.IO;
+
 namespace StrategyFileEncrypt
 {
     public class InMemory : IEncrypt
-    {
-        public void encrypt()
+    {        
+        public void Encrypt(string FileName)
         {
-            //encrypt
+            Console.WriteLine("In memory encryption");
         }
     }
 }

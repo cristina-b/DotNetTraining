@@ -5,5 +5,9 @@ namespace OpenClosedDrawingShapesAfter
     public class Circle : IShape
     {
         public int radius { get; set; }
+        public void Draw()
+        {
+
+        }
     }
 }
