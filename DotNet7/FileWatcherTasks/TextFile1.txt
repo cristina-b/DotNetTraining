@@ -1,0 +1,720 @@
+﻿File created: info utile.txt
+File created: info utile - Copy.txt
+File created: info utile2.txt
+File created: info utile2 - Copy.txt
+File created: info utile3.txt
+File created: info utile3 - Copy.txt
+File created: info utile4.txt
+File created: info utile4 - Copy.txt
+File created: info utile5.txt
+File created: info utile5 - Copy.txt
+File created: AmazonQAWorke2r.ppk.txt
+File created: AmazonQAWorke2r.ppk - Copy.txt
+File created: AmazonQAWorker.ppk.txt
+File created: AmazonQAWorker.ppk - Copy.txt
+info utile.txt|===> in jira dai create branch la task si se creaza automat un branch
+din phpstorm alegi din lista de jos dreapta branchul
+
+===================================================================
+customer details pe dev:
+
+Login ID: titi.testescu
+Password: Uznz0bA$
+Company ID: 6807269
+
+v7:
+titi.testescu
+Passwd01
+1470068
+===================================================================
+
+https://deim2sprint4c.stage.aws.dotw.com/cyp/info.php - iau ip-ul si ma conectez in putty
+
+https://deim3temp.stage.aws.dotw.com/cyp/info.php
+
+cheia pe desktop Amazon ppk
+user: admin
+parola: norisor
+
+[admin@ip-10-245-0-115 ~]$ sudo -i
+[root@ip-10-245-0-115 ~]# su apache
+bash-4.2$ cd /mnt/web_space/DOTW/dw/v3/
+git pull
+
+bash-4.2$ git pull origin feature/branch-name
+bash-4.2$ git checkout -b feature/DPRJ2-8-req008-stop-sale-fast-stop-sale origin/feature/DPRJ2-8-req008-stop-sale-fast-stop-sale
+bash-4.2$ git fetch
+-----------------
+sudo su -l
+su -l apache
+git pull
+-----------------
+
+$ git clone http://cristina.budinschi@jira.dotw.com/bitbucket/scm/dotw/dotw.git
+
+===========================================================================================
+http://jira.dotw.com/confluence/display/DT/Branching+model+-+GitFlow#space-menu-link-content
+https://deim2sprint4c.stage.aws.dotw.com/_myadmin/login
+====================================================
+tail-f errors
+===============================================
+commit and push
+===============================================
+
+kill procese:
+
+killall -KILL php-fpm
+
+pkill -u cristina.budinschi -f php*
+
+==================================================
+afisare noduri
+<xsl:for-each select="node()">
+    <xsl:value-of select="name()"/>
+    <xsl:value-of select="."/>
+    <br/>
+</xsl:for-each>
+==================================================================
+
+
+e3019388-fc59-4dca-908b-8a5f210543ee@traveltech.dotw.com
+
+
+info utile - Copy.txt|===> in jira dai create branch la task si se creaza automat un branch
+din phpstorm alegi din lista de jos dreapta branchul
+
+===================================================================
+customer details pe dev:
+
+Login ID: titi.testescu
+Password: Uznz0bA$
+Company ID: 6807269
+
+v7:
+titi.testescu
+Passwd01
+1470068
+===================================================================
+
+https://deim2sprint4c.stage.aws.dotw.com/cyp/info.php - iau ip-ul si ma conectez in putty
+
+https://deim3temp.stage.aws.dotw.com/cyp/info.php
+
+cheia pe desktop Amazon ppk
+user: admin
+parola: norisor
+
+[admin@ip-10-245-0-115 ~]$ sudo -i
+[root@ip-10-245-0-115 ~]# su apache
+bash-4.2$ cd /mnt/web_space/DOTW/dw/v3/
+git pull
+
+bash-4.2$ git pull origin feature/branch-name
+bash-4.2$ git checkout -b feature/DPRJ2-8-req008-stop-sale-fast-stop-sale origin/feature/DPRJ2-8-req008-stop-sale-fast-stop-sale
+bash-4.2$ git fetch
+-----------------
+sudo su -l
+su -l apache
+git pull
+-----------------
+
+$ git clone http://cristina.budinschi@jira.dotw.com/bitbucket/scm/dotw/dotw.git
+
+===========================================================================================
+http://jira.dotw.com/confluence/display/DT/Branching+model+-+GitFlow#space-menu-link-content
+https://deim2sprint4c.stage.aws.dotw.com/_myadmin/login
+====================================================
+tail-f errors
+===============================================
+commit and push
+===============================================
+
+kill procese:
+
+killall -KILL php-fpm
+
+pkill -u cristina.budinschi -f php*
+
+==================================================
+afisare noduri
+<xsl:for-each select="node()">
+    <xsl:value-of select="name()"/>
+    <xsl:value-of select="."/>
+    <br/>
+</xsl:for-each>
+==================================================================
+
+
+e3019388-fc59-4dca-908b-8a5f210543ee@traveltech.dotw.com
+
+
+info utile2.txt|===> in jira dai create branch la task si se creaza automat un branch
+din phpstorm alegi din lista de jos dreapta branchul
+
+===================================================================
+customer details pe dev:
+
+Login ID: titi.testescu
+Password: Uznz0bA$
+Company ID: 6807269
+
+v7:
+titi.testescu
+Passwd01
+1470068
+===================================================================
+
+https://deim2sprint4c.stage.aws.dotw.com/cyp/info.php - iau ip-ul si ma conectez in putty
+
+https://deim3temp.stage.aws.dotw.com/cyp/info.php
+
+cheia pe desktop Amazon ppk
+user: admin
+parola: norisor
+
+[admin@ip-10-245-0-115 ~]$ sudo -i
+[root@ip-10-245-0-115 ~]# su apache
+bash-4.2$ cd /mnt/web_space/DOTW/dw/v3/
+git pull
+
+bash-4.2$ git pull origin feature/branch-name
+bash-4.2$ git checkout -b feature/DPRJ2-8-req008-stop-sale-fast-stop-sale origin/feature/DPRJ2-8-req008-stop-sale-fast-stop-sale
+bash-4.2$ git fetch
+-----------------
+sudo su -l
+su -l apache
+git pull
+-----------------
+
+$ git clone http://cristina.budinschi@jira.dotw.com/bitbucket/scm/dotw/dotw.git
+
+===========================================================================================
+http://jira.dotw.com/confluence/display/DT/Branching+model+-+GitFlow#space-menu-link-content
+https://deim2sprint4c.stage.aws.dotw.com/_myadmin/login
+====================================================
+tail-f errors
+===============================================
+commit and push
+===============================================
+
+kill procese:
+
+killall -KILL php-fpm
+
+pkill -u cristina.budinschi -f php*
+
+==================================================
+afisare noduri
+<xsl:for-each select="node()">
+    <xsl:value-of select="name()"/>
+    <xsl:value-of select="."/>
+    <br/>
+</xsl:for-each>
+==================================================================
+
+
+e3019388-fc59-4dca-908b-8a5f210543ee@traveltech.dotw.com
+
+
+info utile2 - Copy.txt|===> in jira dai create branch la task si se creaza automat un branch
+din phpstorm alegi din lista de jos dreapta branchul
+
+===================================================================
+customer details pe dev:
+
+Login ID: titi.testescu
+Password: Uznz0bA$
+Company ID: 6807269
+
+v7:
+titi.testescu
+Passwd01
+1470068
+===================================================================
+
+https://deim2sprint4c.stage.aws.dotw.com/cyp/info.php - iau ip-ul si ma conectez in putty
+
+https://deim3temp.stage.aws.dotw.com/cyp/info.php
+
+cheia pe desktop Amazon ppk
+user: admin
+parola: norisor
+
+[admin@ip-10-245-0-115 ~]$ sudo -i
+[root@ip-10-245-0-115 ~]# su apache
+bash-4.2$ cd /mnt/web_space/DOTW/dw/v3/
+git pull
+
+bash-4.2$ git pull origin feature/branch-name
+bash-4.2$ git checkout -b feature/DPRJ2-8-req008-stop-sale-fast-stop-sale origin/feature/DPRJ2-8-req008-stop-sale-fast-stop-sale
+bash-4.2$ git fetch
+-----------------
+sudo su -l
+su -l apache
+git pull
+-----------------
+
+$ git clone http://cristina.budinschi@jira.dotw.com/bitbucket/scm/dotw/dotw.git
+
+===========================================================================================
+http://jira.dotw.com/confluence/display/DT/Branching+model+-+GitFlow#space-menu-link-content
+https://deim2sprint4c.stage.aws.dotw.com/_myadmin/login
+====================================================
+tail-f errors
+===============================================
+commit and push
+===============================================
+
+kill procese:
+
+killall -KILL php-fpm
+
+pkill -u cristina.budinschi -f php*
+
+==================================================
+afisare noduri
+<xsl:for-each select="node()">
+    <xsl:value-of select="name()"/>
+    <xsl:value-of select="."/>
+    <br/>
+</xsl:for-each>
+==================================================================
+
+
+e3019388-fc59-4dca-908b-8a5f210543ee@traveltech.dotw.com
+
+
+info utile3.txt|===> in jira dai create branch la task si se creaza automat un branch
+din phpstorm alegi din lista de jos dreapta branchul
+
+===================================================================
+customer details pe dev:
+
+Login ID: titi.testescu
+Password: Uznz0bA$
+Company ID: 6807269
+
+v7:
+titi.testescu
+Passwd01
+1470068
+===================================================================
+
+https://deim2sprint4c.stage.aws.dotw.com/cyp/info.php - iau ip-ul si ma conectez in putty
+
+https://deim3temp.stage.aws.dotw.com/cyp/info.php
+
+cheia pe desktop Amazon ppk
+user: admin
+parola: norisor
+
+[admin@ip-10-245-0-115 ~]$ sudo -i
+[root@ip-10-245-0-115 ~]# su apache
+bash-4.2$ cd /mnt/web_space/DOTW/dw/v3/
+git pull
+
+bash-4.2$ git pull origin feature/branch-name
+bash-4.2$ git checkout -b feature/DPRJ2-8-req008-stop-sale-fast-stop-sale origin/feature/DPRJ2-8-req008-stop-sale-fast-stop-sale
+bash-4.2$ git fetch
+-----------------
+sudo su -l
+su -l apache
+git pull
+-----------------
+
+$ git clone http://cristina.budinschi@jira.dotw.com/bitbucket/scm/dotw/dotw.git
+
+===========================================================================================
+http://jira.dotw.com/confluence/display/DT/Branching+model+-+GitFlow#space-menu-link-content
+https://deim2sprint4c.stage.aws.dotw.com/_myadmin/login
+====================================================
+tail-f errors
+===============================================
+commit and push
+===============================================
+
+kill procese:
+
+killall -KILL php-fpm
+
+pkill -u cristina.budinschi -f php*
+
+==================================================
+afisare noduri
+<xsl:for-each select="node()">
+    <xsl:value-of select="name()"/>
+    <xsl:value-of select="."/>
+    <br/>
+</xsl:for-each>
+==================================================================
+
+
+e3019388-fc59-4dca-908b-8a5f210543ee@traveltech.dotw.com
+
+
+info utile3 - Copy.txt|===> in jira dai create branch la task si se creaza automat un branch
+din phpstorm alegi din lista de jos dreapta branchul
+
+===================================================================
+customer details pe dev:
+
+Login ID: titi.testescu
+Password: Uznz0bA$
+Company ID: 6807269
+
+v7:
+titi.testescu
+Passwd01
+1470068
+===================================================================
+
+https://deim2sprint4c.stage.aws.dotw.com/cyp/info.php - iau ip-ul si ma conectez in putty
+
+https://deim3temp.stage.aws.dotw.com/cyp/info.php
+
+cheia pe desktop Amazon ppk
+user: admin
+parola: norisor
+
+[admin@ip-10-245-0-115 ~]$ sudo -i
+[root@ip-10-245-0-115 ~]# su apache
+bash-4.2$ cd /mnt/web_space/DOTW/dw/v3/
+git pull
+
+bash-4.2$ git pull origin feature/branch-name
+bash-4.2$ git checkout -b feature/DPRJ2-8-req008-stop-sale-fast-stop-sale origin/feature/DPRJ2-8-req008-stop-sale-fast-stop-sale
+bash-4.2$ git fetch
+-----------------
+sudo su -l
+su -l apache
+git pull
+-----------------
+
+$ git clone http://cristina.budinschi@jira.dotw.com/bitbucket/scm/dotw/dotw.git
+
+===========================================================================================
+http://jira.dotw.com/confluence/display/DT/Branching+model+-+GitFlow#space-menu-link-content
+https://deim2sprint4c.stage.aws.dotw.com/_myadmin/login
+====================================================
+tail-f errors
+===============================================
+commit and push
+===============================================
+
+kill procese:
+
+killall -KILL php-fpm
+
+pkill -u cristina.budinschi -f php*
+
+==================================================
+afisare noduri
+<xsl:for-each select="node()">
+    <xsl:value-of select="name()"/>
+    <xsl:value-of select="."/>
+    <br/>
+</xsl:for-each>
+==================================================================
+
+
+e3019388-fc59-4dca-908b-8a5f210543ee@traveltech.dotw.com
+
+
+info utile4.txt|===> in jira dai create branch la task si se creaza automat un branch
+din phpstorm alegi din lista de jos dreapta branchul
+
+===================================================================
+customer details pe dev:
+
+Login ID: titi.testescu
+Password: Uznz0bA$
+Company ID: 6807269
+
+v7:
+titi.testescu
+Passwd01
+1470068
+===================================================================
+
+https://deim2sprint4c.stage.aws.dotw.com/cyp/info.php - iau ip-ul si ma conectez in putty
+
+https://deim3temp.stage.aws.dotw.com/cyp/info.php
+
+cheia pe desktop Amazon ppk
+user: admin
+parola: norisor
+
+[admin@ip-10-245-0-115 ~]$ sudo -i
+[root@ip-10-245-0-115 ~]# su apache
+bash-4.2$ cd /mnt/web_space/DOTW/dw/v3/
+git pull
+
+bash-4.2$ git pull origin feature/branch-name
+bash-4.2$ git checkout -b feature/DPRJ2-8-req008-stop-sale-fast-stop-sale origin/feature/DPRJ2-8-req008-stop-sale-fast-stop-sale
+bash-4.2$ git fetch
+-----------------
+sudo su -l
+su -l apache
+git pull
+-----------------
+
+$ git clone http://cristina.budinschi@jira.dotw.com/bitbucket/scm/dotw/dotw.git
+
+===========================================================================================
+http://jira.dotw.com/confluence/display/DT/Branching+model+-+GitFlow#space-menu-link-content
+https://deim2sprint4c.stage.aws.dotw.com/_myadmin/login
+====================================================
+tail-f errors
+===============================================
+commit and push
+===============================================
+
+kill procese:
+
+killall -KILL php-fpm
+
+pkill -u cristina.budinschi -f php*
+
+==================================================
+afisare noduri
+<xsl:for-each select="node()">
+    <xsl:value-of select="name()"/>
+    <xsl:value-of select="."/>
+    <br/>
+</xsl:for-each>
+==================================================================
+
+
+e3019388-fc59-4dca-908b-8a5f210543ee@traveltech.dotw.com
+
+
+info utile4 - Copy.txt|===> in jira dai create branch la task si se creaza automat un branch
+din phpstorm alegi din lista de jos dreapta branchul
+
+===================================================================
+customer details pe dev:
+
+Login ID: titi.testescu
+Password: Uznz0bA$
+Company ID: 6807269
+
+v7:
+titi.testescu
+Passwd01
+1470068
+===================================================================
+
+https://deim2sprint4c.stage.aws.dotw.com/cyp/info.php - iau ip-ul si ma conectez in putty
+
+https://deim3temp.stage.aws.dotw.com/cyp/info.php
+
+cheia pe desktop Amazon ppk
+user: admin
+parola: norisor
+
+[admin@ip-10-245-0-115 ~]$ sudo -i
+[root@ip-10-245-0-115 ~]# su apache
+bash-4.2$ cd /mnt/web_space/DOTW/dw/v3/
+git pull
+
+bash-4.2$ git pull origin feature/branch-name
+bash-4.2$ git checkout -b feature/DPRJ2-8-req008-stop-sale-fast-stop-sale origin/feature/DPRJ2-8-req008-stop-sale-fast-stop-sale
+bash-4.2$ git fetch
+-----------------
+sudo su -l
+su -l apache
+git pull
+-----------------
+
+$ git clone http://cristina.budinschi@jira.dotw.com/bitbucket/scm/dotw/dotw.git
+
+===========================================================================================
+http://jira.dotw.com/confluence/display/DT/Branching+model+-+GitFlow#space-menu-link-content
+https://deim2sprint4c.stage.aws.dotw.com/_myadmin/login
+====================================================
+tail-f errors
+===============================================
+commit and push
+===============================================
+
+kill procese:
+
+killall -KILL php-fpm
+
+pkill -u cristina.budinschi -f php*
+
+==================================================
+afisare noduri
+<xsl:for-each select="node()">
+    <xsl:value-of select="name()"/>
+    <xsl:value-of select="."/>
+    <br/>
+</xsl:for-each>
+==================================================================
+
+
+e3019388-fc59-4dca-908b-8a5f210543ee@traveltech.dotw.com
+
+
+info utile5.txt|===> in jira dai create branch la task si se creaza automat un branch
+din phpstorm alegi din lista de jos dreapta branchul
+
+===================================================================
+customer details pe dev:
+
+Login ID: titi.testescu
+Password: Uznz0bA$
+Company ID: 6807269
+
+v7:
+titi.testescu
+Passwd01
+1470068
+===================================================================
+
+https://deim2sprint4c.stage.aws.dotw.com/cyp/info.php - iau ip-ul si ma conectez in putty
+
+https://deim3temp.stage.aws.dotw.com/cyp/info.php
+
+cheia pe desktop Amazon ppk
+user: admin
+parola: norisor
+
+[admin@ip-10-245-0-115 ~]$ sudo -i
+[root@ip-10-245-0-115 ~]# su apache
+bash-4.2$ cd /mnt/web_space/DOTW/dw/v3/
+git pull
+
+bash-4.2$ git pull origin feature/branch-name
+bash-4.2$ git checkout -b feature/DPRJ2-8-req008-stop-sale-fast-stop-sale origin/feature/DPRJ2-8-req008-stop-sale-fast-stop-sale
+bash-4.2$ git fetch
+-----------------
+sudo su -l
+su -l apache
+git pull
+-----------------
+
+$ git clone http://cristina.budinschi@jira.dotw.com/bitbucket/scm/dotw/dotw.git
+
+===========================================================================================
+http://jira.dotw.com/confluence/display/DT/Branching+model+-+GitFlow#space-menu-link-content
+https://deim2sprint4c.stage.aws.dotw.com/_myadmin/login
+====================================================
+tail-f errors
+===============================================
+commit and push
+===============================================
+
+kill procese:
+
+killall -KILL php-fpm
+
+pkill -u cristina.budinschi -f php*
+
+==================================================
+afisare noduri
+<xsl:for-each select="node()">
+    <xsl:value-of select="name()"/>
+    <xsl:value-of select="."/>
+    <br/>
+</xsl:for-each>
+==================================================================
+
+
+e3019388-fc59-4dca-908b-8a5f210543ee@traveltech.dotw.com
+
+
+info utile5 - Copy.txt|===> in jira dai create branch la task si se creaza automat un branch
+din phpstorm alegi din lista de jos dreapta branchul
+
+===================================================================
+customer details pe dev:
+
+Login ID: titi.testescu
+Password: Uznz0bA$
+Company ID: 6807269
+
+v7:
+titi.testescu
+Passwd01
+1470068
+===================================================================
+
+https://deim2sprint4c.stage.aws.dotw.com/cyp/info.php - iau ip-ul si ma conectez in putty
+
+https://deim3temp.stage.aws.dotw.com/cyp/info.php
+
+cheia pe desktop Amazon ppk
+user: admin
+parola: norisor
+
+[admin@ip-10-245-0-115 ~]$ sudo -i
+[root@ip-10-245-0-115 ~]# su apache
+bash-4.2$ cd /mnt/web_space/DOTW/dw/v3/
+git pull
+
+bash-4.2$ git pull origin feature/branch-name
+bash-4.2$ git checkout -b feature/DPRJ2-8-req008-stop-sale-fast-stop-sale origin/feature/DPRJ2-8-req008-stop-sale-fast-stop-sale
+bash-4.2$ git fetch
+-----------------
+sudo su -l
+su -l apache
+git pull
+-----------------
+
+$ git clone http://cristina.budinschi@jira.dotw.com/bitbucket/scm/dotw/dotw.git
+
+===========================================================================================
+http://jira.dotw.com/confluence/display/DT/Branching+model+-+GitFlow#space-menu-link-content
+https://deim2sprint4c.stage.aws.dotw.com/_myadmin/login
+====================================================
+tail-f errors
+===============================================
+commit and push
+===============================================
+
+kill procese:
+
+killall -KILL php-fpm
+
+pkill -u cristina.budinschi -f php*
+
+==================================================
+afisare noduri
+<xsl:for-each select="node()">
+    <xsl:value-of select="name()"/>
+    <xsl:value-of select="."/>
+    <br/>
+</xsl:for-each>
+==================================================================
+
+
+e3019388-fc59-4dca-908b-8a5f210543ee@traveltech.dotw.com
+
+
+AmazonQAWorke2r.ppk.txt|===> PuTTY-User-Key-File-2: ssh-rsa
+Encryption: aes256-cbc
+Comment: imported-openssh-key
+Public-Lines: 6
+AAAAB3NzaC1yc2EAAAADAQABAAABAQCK/1vmnyPJYnHC9BcvS/HDLFx1zhJUylOR
+k+NFFlSQxBgtVX5n/vqTNyKQFZWkQVXJymltGsrf1qfHtXQkRH1yIUYF2fP8vef6
+jMu51dflZDGScDvGrGG/yT9yAcdAMKiTLtB/8Kl+EGL7iXq5IqUbCQ089wtm25o4
+y4oS9OyXB4d9DzxHJ2EFvBuEyAGhCivcIMkfvAbIa6TMgIh+yEnTgcuOZRDB2CCx
+AjgZVTioPYu0Bs61TcPqNZVQfd5OSz7bIwcNXJHrNPdl6/lXyerg4DwLfpm+hjKH
+eZC0xiL9k0CpBIy1KifU5QQRw4yUx6xc2ygpVB+Bh2x3ZXC/0EwX
+Private-Lines: 14
+230IF1Kgz08SGIXyCd6O4xEkW1Ls7lT5sgQSDnBSdtDrL/YOmBUi5wzI1cchQ1Il
+PdtRUIX/yGtuNcfI4Zj1Llr2bXo2v0WBGw+oRmguk/4flcCEK2+DNDwHGsEcDfNy
+Y5tng8dIq5PNNLc/DMU7dVPoQBRV30gHwjTg283UakwnGRW0c+HfjldqKxLrw68a
+mNG6gjtMmwLzH8dOUzPHasmQyYKkTxQ78kiDYkwsfYizVh429iiFd/rQwCNKJg1e
+SGMM+rx/xh1g1Ql2r0+lksAhnZfcef1qQnoesLmqQa0CL1PTyXpzRwTpU6Z42aOE
+ZfjdMHewjag5rSq5YpwoxF97LX1l3vDKyS/2NDhaTPsxEohJSCYzIOKmZtidnAjh
+F0EnTcQbpbhPomCuOXIcmbuQgnvqtvSS9MW4CWEvnurtlCHvBNGISOEPR+stWhxu
+l6nLpA4yhZk/XBvqVgb5MFtEegVEdijazdyXHOmH7XWixvS0iDDDDRATbOt/hOMG
+UOfCHf/sOppsr4HJWPftcH3TcdIhEBJ6el1eqSmkLXP6707zDOu+pJXndbMp5wjw
+004vafZ4K6ji7etDjMXIfp1jPKvnVNyGrRVPs92S2oKlAryeu9hM60MYXkREzdxi
+MO4VpN26TG9Ob2OSHqOm69ils7gXLATIhTr9YEdweLRScl65Vg/zOvKOrfrxRqEA
+/xFs/dcjPN2VCJN26mg/yFLpH13HrFkUxokaU6yhk0qDGqex+5Se08VFQGDJX/mw
+ZUnO+6O1GJrJiPA8pazNcHOx/4d+Ab0GRyNjddtXoJWdFXCicV3DzxK7kj36l4ex
+RLeN0rN9aJFXSkljXqPHOUcNYOzslrYK+WREsvBJoOAxuENC7oM8BfWE748BRONi
+Private-MAC: 2db410c652d9aaa364c45143bc68b58c459de86e

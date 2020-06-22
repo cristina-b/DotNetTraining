@@ -1,0 +1,10 @@
+C:\Users\cristina\source\repos\wantsome-dotnet-public3\group2\asyncprog.home\sln\UiFormApp\bin\Debug\UiFormApp.exe.config
+C:\Users\cristina\source\repos\wantsome-dotnet-public3\group2\asyncprog.home\sln\UiFormApp\bin\Debug\UiFormApp.exe
+C:\Users\cristina\source\repos\wantsome-dotnet-public3\group2\asyncprog.home\sln\UiFormApp\bin\Debug\UiFormApp.pdb
+C:\Users\cristina\source\repos\wantsome-dotnet-public3\group2\asyncprog.home\sln\UiFormApp\obj\Debug\UiFormApp.csprojAssemblyReference.cache
+C:\Users\cristina\source\repos\wantsome-dotnet-public3\group2\asyncprog.home\sln\UiFormApp\obj\Debug\UiFormApp.Properties.Resources.resources
+C:\Users\cristina\source\repos\wantsome-dotnet-public3\group2\asyncprog.home\sln\UiFormApp\obj\Debug\UiFormApp.UiForm.resources
+C:\Users\cristina\source\repos\wantsome-dotnet-public3\group2\asyncprog.home\sln\UiFormApp\obj\Debug\UiFormApp.csproj.GenerateResource.cache
+C:\Users\cristina\source\repos\wantsome-dotnet-public3\group2\asyncprog.home\sln\UiFormApp\obj\Debug\UiFormApp.csproj.CoreCompileInputs.cache
+C:\Users\cristina\source\repos\wantsome-dotnet-public3\group2\asyncprog.home\sln\UiFormApp\obj\Debug\UiFormApp.exe
+C:\Users\cristina\source\repos\wantsome-dotnet-public3\group2\asyncprog.home\sln\UiFormApp\obj\Debug\UiFormApp.pdb

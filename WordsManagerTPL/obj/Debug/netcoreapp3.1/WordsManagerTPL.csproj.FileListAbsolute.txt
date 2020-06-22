@@ -1,0 +1,13 @@
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\WordsManagerTPL\bin\Debug\netcoreapp3.1\WordsManagerTPL.exe
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\WordsManagerTPL\bin\Debug\netcoreapp3.1\WordsManagerTPL.deps.json
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\WordsManagerTPL\bin\Debug\netcoreapp3.1\WordsManagerTPL.runtimeconfig.json
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\WordsManagerTPL\bin\Debug\netcoreapp3.1\WordsManagerTPL.runtimeconfig.dev.json
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\WordsManagerTPL\bin\Debug\netcoreapp3.1\WordsManagerTPL.dll
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\WordsManagerTPL\bin\Debug\netcoreapp3.1\WordsManagerTPL.pdb
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\WordsManagerTPL\obj\Debug\netcoreapp3.1\WordsManagerTPL.AssemblyInfoInputs.cache
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\WordsManagerTPL\obj\Debug\netcoreapp3.1\WordsManagerTPL.AssemblyInfo.cs
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\WordsManagerTPL\obj\Debug\netcoreapp3.1\WordsManagerTPL.csproj.CoreCompileInputs.cache
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\WordsManagerTPL\obj\Debug\netcoreapp3.1\WordsManagerTPL.dll
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\WordsManagerTPL\obj\Debug\netcoreapp3.1\WordsManagerTPL.pdb
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\WordsManagerTPL\obj\Debug\netcoreapp3.1\WordsManagerTPL.genruntimeconfig.cache
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\WordsManagerTPL\obj\Debug\netcoreapp3.1\WordsManagerTPL.csprojAssemblyReference.cache

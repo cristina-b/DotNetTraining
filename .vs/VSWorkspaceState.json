@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\DotNet1",
-    "\\DotNet2"
+    "\\DotNet2",
+    "\\DotNet6"
   ],
-  "SelectedNode": "\\DotNet2",
+  "SelectedNode": "\\DotNet6",
   "PreviewInSolutionExplorer": false
 }

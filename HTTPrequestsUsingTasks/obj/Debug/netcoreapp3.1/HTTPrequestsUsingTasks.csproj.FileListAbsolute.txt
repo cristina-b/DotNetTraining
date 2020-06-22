@@ -1,0 +1,13 @@
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\HTTPrequestsUsingTasks\bin\Debug\netcoreapp3.1\HTTPrequestsUsingTasks.exe
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\HTTPrequestsUsingTasks\bin\Debug\netcoreapp3.1\HTTPrequestsUsingTasks.deps.json
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\HTTPrequestsUsingTasks\bin\Debug\netcoreapp3.1\HTTPrequestsUsingTasks.runtimeconfig.json
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\HTTPrequestsUsingTasks\bin\Debug\netcoreapp3.1\HTTPrequestsUsingTasks.runtimeconfig.dev.json
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\HTTPrequestsUsingTasks\bin\Debug\netcoreapp3.1\HTTPrequestsUsingTasks.dll
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\HTTPrequestsUsingTasks\bin\Debug\netcoreapp3.1\HTTPrequestsUsingTasks.pdb
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\HTTPrequestsUsingTasks\obj\Debug\netcoreapp3.1\HTTPrequestsUsingTasks.AssemblyInfoInputs.cache
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\HTTPrequestsUsingTasks\obj\Debug\netcoreapp3.1\HTTPrequestsUsingTasks.AssemblyInfo.cs
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\HTTPrequestsUsingTasks\obj\Debug\netcoreapp3.1\HTTPrequestsUsingTasks.csproj.CoreCompileInputs.cache
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\HTTPrequestsUsingTasks\obj\Debug\netcoreapp3.1\HTTPrequestsUsingTasks.dll
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\HTTPrequestsUsingTasks\obj\Debug\netcoreapp3.1\HTTPrequestsUsingTasks.pdb
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\HTTPrequestsUsingTasks\obj\Debug\netcoreapp3.1\HTTPrequestsUsingTasks.genruntimeconfig.cache
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\HTTPrequestsUsingTasks\obj\Debug\netcoreapp3.1\HTTPrequestsUsingTasks.csprojAssemblyReference.cache

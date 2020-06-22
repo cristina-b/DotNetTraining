@@ -1,0 +1,13 @@
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet7\FileWatcherTasks\obj\Debug\netcoreapp3.1\FileWatcherTasks.csprojAssemblyReference.cache
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet7\FileWatcherTasks\obj\Debug\netcoreapp3.1\FileWatcherTasks.AssemblyInfoInputs.cache
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet7\FileWatcherTasks\obj\Debug\netcoreapp3.1\FileWatcherTasks.AssemblyInfo.cs
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet7\FileWatcherTasks\obj\Debug\netcoreapp3.1\FileWatcherTasks.csproj.CoreCompileInputs.cache
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet7\FileWatcherTasks\bin\Debug\netcoreapp3.1\FileWatcherTasks.exe
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet7\FileWatcherTasks\bin\Debug\netcoreapp3.1\FileWatcherTasks.deps.json
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet7\FileWatcherTasks\bin\Debug\netcoreapp3.1\FileWatcherTasks.runtimeconfig.json
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet7\FileWatcherTasks\bin\Debug\netcoreapp3.1\FileWatcherTasks.runtimeconfig.dev.json
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet7\FileWatcherTasks\bin\Debug\netcoreapp3.1\FileWatcherTasks.dll
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet7\FileWatcherTasks\bin\Debug\netcoreapp3.1\FileWatcherTasks.pdb
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet7\FileWatcherTasks\obj\Debug\netcoreapp3.1\FileWatcherTasks.dll
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet7\FileWatcherTasks\obj\Debug\netcoreapp3.1\FileWatcherTasks.pdb
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet7\FileWatcherTasks\obj\Debug\netcoreapp3.1\FileWatcherTasks.genruntimeconfig.cache

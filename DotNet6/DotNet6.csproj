@@ -5,4 +5,16 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="UiFormApp\Properties\UiFormApp.csproj" />
+    <None Include="UiFormApp\UiFormApp.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="UiFormApp\bin\Release\" />
+    <Folder Include="UiFormApp\obj\Debug\TempPE\" />
+    <Folder Include="UiFormApp\Properties\bin\Release\" />
+    <Folder Include="UiFormApp\Properties\obj\Debug\TempPE\" />
+  </ItemGroup>
+
 </Project>
