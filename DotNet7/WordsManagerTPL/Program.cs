@@ -21,6 +21,7 @@ namespace WordsManagerTPL
                 FileManager fileManager = new FileManager(Path.GetFullPath(file));
                 fileManager.ProcessFile();
             });
+
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cristina\\source\\repos\\cristina-b\\DotNetTraining\\WordsManagerTPL\\WordsManagerTPL.csproj": {}
+    "C:\\Users\\cristina\\source\\repos\\cristina-b\\DotNetTraining\\DotNet7\\HTTPrequestsUsingTasks\\HTTPrequestsUsingTasks.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cristina\\source\\repos\\cristina-b\\DotNetTraining\\WordsManagerTPL\\WordsManagerTPL.csproj": {
+    "C:\\Users\\cristina\\source\\repos\\cristina-b\\DotNetTraining\\DotNet7\\HTTPrequestsUsingTasks\\HTTPrequestsUsingTasks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cristina\\source\\repos\\cristina-b\\DotNetTraining\\WordsManagerTPL\\WordsManagerTPL.csproj",
-        "projectName": "WordsManagerTPL",
-        "projectPath": "C:\\Users\\cristina\\source\\repos\\cristina-b\\DotNetTraining\\WordsManagerTPL\\WordsManagerTPL.csproj",
+        "projectUniqueName": "C:\\Users\\cristina\\source\\repos\\cristina-b\\DotNetTraining\\DotNet7\\HTTPrequestsUsingTasks\\HTTPrequestsUsingTasks.csproj",
+        "projectName": "HTTPrequestsUsingTasks",
+        "projectPath": "C:\\Users\\cristina\\source\\repos\\cristina-b\\DotNetTraining\\DotNet7\\HTTPrequestsUsingTasks\\HTTPrequestsUsingTasks.csproj",
         "packagesPath": "C:\\Users\\cristina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cristina\\source\\repos\\cristina-b\\DotNetTraining\\WordsManagerTPL\\obj\\",
+        "outputPath": "C:\\Users\\cristina\\source\\repos\\cristina-b\\DotNetTraining\\DotNet7\\HTTPrequestsUsingTasks\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

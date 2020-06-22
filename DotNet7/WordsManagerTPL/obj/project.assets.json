@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cristina\\source\\repos\\cristina-b\\DotNetTraining\\FileWatcherTPL\\FileWatcherTPL.csproj",
-      "projectName": "FileWatcherTPL",
-      "projectPath": "C:\\Users\\cristina\\source\\repos\\cristina-b\\DotNetTraining\\FileWatcherTPL\\FileWatcherTPL.csproj",
+      "projectUniqueName": "C:\\Users\\cristina\\source\\repos\\cristina-b\\DotNetTraining\\DotNet7\\WordsManagerTPL\\WordsManagerTPL.csproj",
+      "projectName": "WordsManagerTPL",
+      "projectPath": "C:\\Users\\cristina\\source\\repos\\cristina-b\\DotNetTraining\\DotNet7\\WordsManagerTPL\\WordsManagerTPL.csproj",
       "packagesPath": "C:\\Users\\cristina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cristina\\source\\repos\\cristina-b\\DotNetTraining\\FileWatcherTPL\\obj\\",
+      "outputPath": "C:\\Users\\cristina\\source\\repos\\cristina-b\\DotNetTraining\\DotNet7\\WordsManagerTPL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
