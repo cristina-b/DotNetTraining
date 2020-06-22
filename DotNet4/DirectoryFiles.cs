@@ -4,21 +4,8 @@ using System.Linq;
 
 namespace DotNet4
 {
-    class DirectoryFiles
-    {
-        static void Main(string[] args)
-        {
-            try
-            {
-                var dir = @"D:\.NET";
-                PrintDirectoryTree(dir, 6);
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine(ex.Message);
-            }
-        }
-
+    static class DirectoryFiles
+    {        
         public static void PrintDirectoryTree(string directory, int level, string treeDisplay = "")
         {
             foreach (string f in Directory.GetFiles(directory))

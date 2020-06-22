@@ -7,20 +7,20 @@ namespace DotNet4
         public static bool IsSmoothSentence(string sentence)
         {
             sentence = sentence.Trim().ToLower();
-            string[] sentences = sentence.Split(' ');
+            string[] words = sentence.Split(' ');
 
-            if (sentence.Length <= 1)
+            if (words.Length <= 1)
             {
                 return false;
             }
 
-            for (int i = 0; i < sentences.Length - 1; i++)
+            for (int i = 0; i < words.Length - 1; i++)
             {
-                string previousWord = sentences[i];
-                char lastChar = Char.Parse(previousWord.Substring(previousWord.Length - 1));
+                string firstWord = words[i];
+                char lastChar = Char.Parse(firstWord.Substring(firstWord.Length - 1));
 
-                string followingWord = sentences[i + 1];
-                char firstChar = Char.Parse(followingWord.Substring(0, 1));
+                string secondWord = words[i + 1];
+                char firstChar = Char.Parse(secondWord.Substring(0, 1));
 
                 if (lastChar != firstChar)
                 {

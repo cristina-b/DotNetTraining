@@ -6,6 +6,22 @@ namespace DotNet4
 {
     class Program
     {
-        //SmoothSentence.IsSmoothSentence("Marta appreciated deep perpendicular right trapezoids");
+        public static void printDirectoryTree()
+        {
+            try
+            {
+                var dir = @"D:\.NET";               
+                DirectoryFiles.PrintDirectoryTree(dir, 6);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+        }
+        public static void Main()
+        {
+            printDirectoryTree();
+            Console.WriteLine("Smooth Sentence: {0}", SmoothSentence.IsSmoothSentence("Marta appreciated deep perpendicular right trapezoids"));
+        }
     }
 }
