@@ -1,0 +1,6 @@
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet8\DapperQueries\bin\Debug\netcoreapp3.1\DapperQueries.exe
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet8\DapperQueries\obj\Debug\netcoreapp3.1\DapperQueries.AssemblyInfoInputs.cache
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet8\DapperQueries\obj\Debug\netcoreapp3.1\DapperQueries.AssemblyInfo.cs
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet8\DapperQueries\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet8\DapperQueries\obj\Debug\netcoreapp3.1\DapperQueries.csprojAssemblyReference.cache
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet8\DapperQueries\obj\Debug\netcoreapp3.1\DapperQueries.csproj.CopyComplete

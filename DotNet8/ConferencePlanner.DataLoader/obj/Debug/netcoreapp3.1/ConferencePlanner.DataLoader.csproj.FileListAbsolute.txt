@@ -1,0 +1,12 @@
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet8\ConferencePlanner.DataLoader\bin\Debug\netcoreapp3.1\ConferencePlanner.DataLoader.exe
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet8\ConferencePlanner.DataLoader\obj\Debug\netcoreapp3.1\ConferencePlanner.DataLoader.csprojAssemblyReference.cache
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet8\ConferencePlanner.DataLoader\obj\Debug\netcoreapp3.1\ConferencePlanner.DataLoader.AssemblyInfoInputs.cache
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet8\ConferencePlanner.DataLoader\obj\Debug\netcoreapp3.1\ConferencePlanner.DataLoader.AssemblyInfo.cs
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet8\ConferencePlanner.DataLoader\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet8\ConferencePlanner.DataLoader\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet8\ConferencePlanner.DataLoader\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet8\ConferencePlanner.DataLoader\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet8\ConferencePlanner.DataLoader\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet8\ConferencePlanner.DataLoader\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet8\ConferencePlanner.DataLoader\obj\Debug\netcoreapp3.1\ConferencePlanner.DataLoader.csproj.CopyComplete
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet8\ConferencePlanner.DataLoader\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
