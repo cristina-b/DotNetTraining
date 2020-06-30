@@ -1,0 +1,7 @@
+C:\Users\cristina\source\repos\wantsome-dotnet-public8\advanced.day.03.unit.tests\twitter\bin\Debug\_6.Twitter.exe.config
+C:\Users\cristina\source\repos\wantsome-dotnet-public8\advanced.day.03.unit.tests\twitter\bin\Debug\_6.Twitter.exe
+C:\Users\cristina\source\repos\wantsome-dotnet-public8\advanced.day.03.unit.tests\twitter\bin\Debug\_6.Twitter.pdb
+C:\Users\cristina\source\repos\wantsome-dotnet-public8\advanced.day.03.unit.tests\twitter\obj\Debug\6. Twitter.csprojAssemblyReference.cache
+C:\Users\cristina\source\repos\wantsome-dotnet-public8\advanced.day.03.unit.tests\twitter\obj\Debug\6. Twitter.csproj.CoreCompileInputs.cache
+C:\Users\cristina\source\repos\wantsome-dotnet-public8\advanced.day.03.unit.tests\twitter\obj\Debug\_6.Twitter.exe
+C:\Users\cristina\source\repos\wantsome-dotnet-public8\advanced.day.03.unit.tests\twitter\obj\Debug\_6.Twitter.pdb

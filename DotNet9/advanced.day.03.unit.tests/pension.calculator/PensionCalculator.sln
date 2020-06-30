@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{FAE710BF-586E-41E1-9837-27AAD53D69BC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTests", "UnitTests\UnitTests.csproj", "{120E9470-C69B-43E8-998F-7F0EBCE60186}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Twitter", "..\twitter\6. Twitter.csproj", "{E16174DE-60B2-4006-86BB-BCB1E26EF192}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Twitter Tests", "TwitterTests\6. Twitter Tests.csproj", "{69841B1E-BF1B-4020-AAA5-B37EB49EC9C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. Custom Linked List", "..\custom.linked.list\8. Custom Linked List.csproj", "{A3C75CC0-DA99-4643-B9E7-12D187BCF2FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. Custom Linked List Tests", "8. Custom Linked List Tests\8. Custom Linked List Tests.csproj", "{6FA2DF7B-B492-4646-9153-CFA69DB3ADD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAE710BF-586E-41E1-9837-27AAD53D69BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAE710BF-586E-41E1-9837-27AAD53D69BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAE710BF-586E-41E1-9837-27AAD53D69BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAE710BF-586E-41E1-9837-27AAD53D69BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{120E9470-C69B-43E8-998F-7F0EBCE60186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{120E9470-C69B-43E8-998F-7F0EBCE60186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{120E9470-C69B-43E8-998F-7F0EBCE60186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{120E9470-C69B-43E8-998F-7F0EBCE60186}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E16174DE-60B2-4006-86BB-BCB1E26EF192}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E16174DE-60B2-4006-86BB-BCB1E26EF192}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E16174DE-60B2-4006-86BB-BCB1E26EF192}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E16174DE-60B2-4006-86BB-BCB1E26EF192}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69841B1E-BF1B-4020-AAA5-B37EB49EC9C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69841B1E-BF1B-4020-AAA5-B37EB49EC9C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69841B1E-BF1B-4020-AAA5-B37EB49EC9C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69841B1E-BF1B-4020-AAA5-B37EB49EC9C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3C75CC0-DA99-4643-B9E7-12D187BCF2FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C75CC0-DA99-4643-B9E7-12D187BCF2FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C75CC0-DA99-4643-B9E7-12D187BCF2FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C75CC0-DA99-4643-B9E7-12D187BCF2FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FA2DF7B-B492-4646-9153-CFA69DB3ADD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FA2DF7B-B492-4646-9153-CFA69DB3ADD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FA2DF7B-B492-4646-9153-CFA69DB3ADD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FA2DF7B-B492-4646-9153-CFA69DB3ADD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC649CCA-3904-4028-8CFB-BCAA7DCED523}
+	EndGlobalSection
+EndGlobal

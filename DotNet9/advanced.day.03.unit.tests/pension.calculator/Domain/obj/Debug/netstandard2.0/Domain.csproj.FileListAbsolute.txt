@@ -1,0 +1,9 @@
+C:\Users\cristina\source\repos\wantsome-dotnet-public8\advanced.day.03.unit.tests\pension.calculator\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\Users\cristina\source\repos\wantsome-dotnet-public8\advanced.day.03.unit.tests\pension.calculator\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\cristina\source\repos\wantsome-dotnet-public8\advanced.day.03.unit.tests\pension.calculator\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\cristina\source\repos\wantsome-dotnet-public8\advanced.day.03.unit.tests\pension.calculator\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+C:\Users\cristina\source\repos\wantsome-dotnet-public8\advanced.day.03.unit.tests\pension.calculator\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\Users\cristina\source\repos\wantsome-dotnet-public8\advanced.day.03.unit.tests\pension.calculator\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\Users\cristina\source\repos\wantsome-dotnet-public8\advanced.day.03.unit.tests\pension.calculator\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\cristina\source\repos\wantsome-dotnet-public8\advanced.day.03.unit.tests\pension.calculator\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\Users\cristina\source\repos\wantsome-dotnet-public8\advanced.day.03.unit.tests\pension.calculator\Domain\obj\Debug\netstandard2.0\Domain.pdb

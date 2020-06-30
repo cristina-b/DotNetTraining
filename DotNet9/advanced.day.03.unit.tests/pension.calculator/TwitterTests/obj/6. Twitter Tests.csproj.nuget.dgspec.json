@@ -1,0 +1,93 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\cristina\\source\\repos\\wantsome-dotnet-public8\\advanced.day.03.unit.tests\\pension.calculator\\TwitterTests\\6. Twitter Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\cristina\\source\\repos\\wantsome-dotnet-public8\\advanced.day.03.unit.tests\\pension.calculator\\TwitterTests\\6. Twitter Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cristina\\source\\repos\\wantsome-dotnet-public8\\advanced.day.03.unit.tests\\pension.calculator\\TwitterTests\\6. Twitter Tests.csproj",
+        "projectName": "6. Twitter Tests",
+        "projectPath": "C:\\Users\\cristina\\source\\repos\\wantsome-dotnet-public8\\advanced.day.03.unit.tests\\pension.calculator\\TwitterTests\\6. Twitter Tests.csproj",
+        "packagesPath": "C:\\Users\\cristina\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cristina\\source\\repos\\wantsome-dotnet-public8\\advanced.day.03.unit.tests\\pension.calculator\\TwitterTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cristina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\cristina\\source\\repos\\wantsome-dotnet-public8\\advanced.day.03.unit.tests\\twitter\\6. Twitter.csproj": {
+                "projectPath": "C:\\Users\\cristina\\source\\repos\\wantsome-dotnet-public8\\advanced.day.03.unit.tests\\twitter\\6. Twitter.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.4, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\cristina\\source\\repos\\wantsome-dotnet-public8\\advanced.day.03.unit.tests\\twitter\\6. Twitter.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cristina\\source\\repos\\wantsome-dotnet-public8\\advanced.day.03.unit.tests\\twitter\\6. Twitter.csproj",
+        "projectName": "6. Twitter",
+        "projectPath": "C:\\Users\\cristina\\source\\repos\\wantsome-dotnet-public8\\advanced.day.03.unit.tests\\twitter\\6. Twitter.csproj"
+      },
+      "frameworks": {
+        "net452": {}
+      }
+    }
+  }
+}

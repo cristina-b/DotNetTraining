@@ -1,0 +1,13 @@
+C:\Users\cristina\source\repos\wantsome-dotnet-public8\advanced.day.03.unit.tests\pension.calculator\TwitterTests\bin\Debug\netstandard2.0\TwitterTests.deps.json
+C:\Users\cristina\source\repos\wantsome-dotnet-public8\advanced.day.03.unit.tests\pension.calculator\TwitterTests\bin\Debug\netstandard2.0\TwitterTests.dll
+C:\Users\cristina\source\repos\wantsome-dotnet-public8\advanced.day.03.unit.tests\pension.calculator\TwitterTests\obj\Debug\netstandard2.0\TwitterTests.csprojAssemblyReference.cache
+C:\Users\cristina\source\repos\wantsome-dotnet-public8\advanced.day.03.unit.tests\pension.calculator\TwitterTests\obj\Debug\netstandard2.0\TwitterTests.AssemblyInfoInputs.cache
+C:\Users\cristina\source\repos\wantsome-dotnet-public8\advanced.day.03.unit.tests\pension.calculator\TwitterTests\obj\Debug\netstandard2.0\TwitterTests.AssemblyInfo.cs
+C:\Users\cristina\source\repos\wantsome-dotnet-public8\advanced.day.03.unit.tests\pension.calculator\TwitterTests\bin\Debug\netstandard2.0\_6.Twitter.exe
+C:\Users\cristina\source\repos\wantsome-dotnet-public8\advanced.day.03.unit.tests\pension.calculator\TwitterTests\bin\Debug\netstandard2.0\TwitterTests.pdb
+C:\Users\cristina\source\repos\wantsome-dotnet-public8\advanced.day.03.unit.tests\pension.calculator\TwitterTests\bin\Debug\netstandard2.0\_6.Twitter.pdb
+C:\Users\cristina\source\repos\wantsome-dotnet-public8\advanced.day.03.unit.tests\pension.calculator\TwitterTests\bin\Debug\netstandard2.0\_6.Twitter.exe.config
+C:\Users\cristina\source\repos\wantsome-dotnet-public8\advanced.day.03.unit.tests\pension.calculator\TwitterTests\obj\Debug\netstandard2.0\TwitterTests.csproj.CoreCompileInputs.cache
+C:\Users\cristina\source\repos\wantsome-dotnet-public8\advanced.day.03.unit.tests\pension.calculator\TwitterTests\obj\Debug\netstandard2.0\TwitterTests.csproj.CopyComplete
+C:\Users\cristina\source\repos\wantsome-dotnet-public8\advanced.day.03.unit.tests\pension.calculator\TwitterTests\obj\Debug\netstandard2.0\TwitterTests.dll
+C:\Users\cristina\source\repos\wantsome-dotnet-public8\advanced.day.03.unit.tests\pension.calculator\TwitterTests\obj\Debug\netstandard2.0\TwitterTests.pdb

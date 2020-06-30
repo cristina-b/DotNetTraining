@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xeivlVwHtj5DTQ0B99kmuG9AO5pTrvaGtILb7VHMQ/kmKYWbYO+B1sVUmSfwRWtSFSFYx4cZFejx3nxruZb1mw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cristina\\source\\repos\\wantsome-dotnet-public8\\advanced.day.03.unit.tests\\pension.calculator\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cristina\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\cristina\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
