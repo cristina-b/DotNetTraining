@@ -2,6 +2,7 @@
 using System;
 using System.Data.SqlClient;
 using ConferencePlanner.Data.Entities;
+using System.Linq;
 
 namespace DapperQueries
 {

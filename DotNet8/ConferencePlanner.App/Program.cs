@@ -1,12 +1,14 @@
-﻿namespace ConferencePlanner.App
-{
-    using System;
-    using System.Linq;
-    using ConferencePlanner.Data.Entities;
-    using Data.Entities;
-    using Data;
-    using Microsoft.EntityFrameworkCore;
+﻿using System;
+using System.Linq;
+using ConferencePlanner.Data;
+using ConferencePlanner.Data.Entities;
+using ConferencePlanner.Entities;
+using System.Data;
+using Microsoft.EntityFrameworkCore;
 
+
+namespace ConferencePlanner.App
+{
     internal class Program
     {
         private static void Main(string[] args)
@@ -15,9 +17,7 @@
 
             using var context = new ApplicationDbContext();
 
-            Ex01.Run(context);
-
-            //var repo = new Repository<Data.Entities.Attendee>(context);
+            Ex03.Run(context);            
         }
     }
 
@@ -28,15 +28,10 @@
             // Todo
             // write a simple query to validate ApplicationDbContext
 
-            //var attendee = context.Attendees.FirstOrDefault();
+            var attendee = context.Attendees.FirstOrDefault();
 
-            //Console.WriteLine(attendee.UserName);
+            Console.WriteLine(attendee.FirstName);
 
-            Console.WriteLine("bla bla");
-            /*var newAttendee = context.Attendees.Add(new Data.Entities.Attendee { EmailAddress = "blabla@ceva.com" });
-
-            context.Tracks.Add(new Data.Entities.Track());
-            context.SaveChanges();*/
         }
     }
 
@@ -47,29 +42,51 @@
             // Todo
             // on Tracks table, add PHP, C# tracks with a seed
             // update ApplicationDbContext to run a seed
+            var attendee = context.Attendees.FirstOrDefault();
+
+            var newAttendee = context.Attendees.Add(new Data.Entities.Attendee { EmailAddress = "test@conferenceplanner.com" });
+
+            context.Tracks.Add(new Data.Entities.Track());
+            context.SaveChanges();
         }
+
     }
+}
 
     internal class Ex03
     {
         public static void Run(ApplicationDbContext context)
         {
-            // Todo
-            // on Attendee model, add a new property, date of birth
-            // add a migration, run the migration
-            // insert then read a Attendee
-        }
+        // Todo
+        // on Attendee model, add a new property, date of birth
+        // add a migration, run the migration
+        // insert then read a Attendee
+        var attendee = context.Attendees.FirstOrDefault();
+
+        var newAttendee = context.Attendees.Add(
+            new ConferencePlanner.Data.Entities.Attendee { 
+                EmailAddress = "new.attendee@conferenceplanner.com",
+                FirstName = "New",
+                LastName = "Attendee",
+                DateOfBirth = Convert.ToDateTime("1980-10-10"),
+                UserName = "new.attendee"
+            });
+        
+        context.SaveChanges();
+    }
     }
 
     internal class Ex04
     {
         public static void Run(ApplicationDbContext context)
         {
-            // Todo
-            // have a look on ConferencePlanner.Services and ISessionRepository
-            // implement the repository inside the Data project
-            // use the repository here in order to read 
-        }
+        // Todo
+        // have a look on ConferencePlanner.Services and ISessionRepository
+        // implement the repository inside the Data project
+        // use the repository here in order to read 
+        var repo = new Repository<ConferencePlanner.Data.Entities.Attendee>(context);
+        repo.Get();
+    }
     }
 
     internal class Ex05
@@ -83,14 +100,25 @@
     {
         public static void Run(ApplicationDbContext context)
         {
-            // todo
-            // all Sessions that title contains ".NET"
+        // todo
+        // all Sessions that title contains ".NET"
 
-            // number of sessions for each speaker
+            var sessions = context.Sessions.Where(s => s.Title.Contains(".NET")).ToList();
+        // number of sessions for each speaker
 
-            // number of tracks per session
-
-            // all tracks for each session
+            var session = context.SessionSpeaker
+                .GroupBy(s => s.SpeakerId)
+                .Select(s => new { id = s.Key, Count = s.Count() })
+                .ToList();
+        // number of tracks per session
+            var sessionTrack = context.Sessions
+                .GroupBy(s => s.TrackId)
+                .Select(s => new { id = s.Key, Count = s.Count() })
+                .ToList();
+        // all tracks for each session
+        var sessionTracks = context.Sessions
+                .GroupBy(s => s.TrackId)
+                .ToList();
         }
     }
 
@@ -100,6 +128,7 @@
         {
             // todo
             // get all sessions for one speaker
+            var speakers = context.Speakers.Include(s => s.SessionSpeakers).ToList();
         }
     }
 

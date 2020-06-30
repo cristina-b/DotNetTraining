@@ -1,32 +1,50 @@
 ﻿using ConferencePlanner.Entities;
+using ConferencePlanner.Services;
+using Dapper;
+using Microsoft.Data.SqlClient;
 using System;
 using System.Collections.Generic;
-using System.Text;
-using System.Threading.Tasks;
+using System.Linq;
 
 namespace ConferencePlanner.Data
 {
-    class SpeakerRepository : ISpeakerRepository
+    class SpeakerRepository 
     {
-        Task<Speaker>
-        public Task<IEnumerable<Speaker>> CountSessionPerSpeaker()
+        private string sqlConnectionString = @"data source = DESKTOP-VP4E8HD\SQLEXPRESS; database = ConferencePlanner; integrated security = SSPI";
+        
+        public List<Speaker> GetAllSpeakers()
         {
-            throw new NotImplementedException();
+            List<Speaker> speakers = new List<Speaker>();
+
+            using var connection = new SqlConnection(sqlConnectionString);
+            var allSpeakers = connection.Query<Speaker>("select * from speakers").ToList();
+
+            return allSpeakers;            
         }
 
-        public Task<Speaker> Get(int id)
-        {
-            return 
+        public List<Speaker> Get(int id)
+        {            
+            using var connection = new SqlConnection(sqlConnectionString);
+            var speaker = connection.Query<Speaker>("select * from speakers WHERE id=@Id", new { Id = id }).ToList();
+            return speaker;
         }
 
-        public Task<IEnumerable<Session>> GetAllSessions(int id)
+        public List<Speaker> GetAllSessions(int id)
         {
-            throw new NotImplementedException();
+            using var connection = new SqlConnection(sqlConnectionString);
+            var sessionSpeaker = connection.Query<Speaker>("" +
+                "select * from speakers " +
+                "LEFT JOIN SessionSpeaker ON SessionSpeaker.SpeakerId = Speaker.Id" +
+                "WHERE Speaker.Id=@Id", new { Id = id }).ToList();
+            return sessionSpeaker;
         }
 
-        public Task<int> Save(Speaker speaker)
-        {
-            throw new NotImplementedException();
+        public int Save(Speaker speaker)
+        {            
+            using var connection = new SqlConnection(sqlConnectionString);
+            string sqlSpeakerInsert = @"INSERT INTO speakers(Name, Bio, Website) VALUES (@FullName, @Bio, @Website)";
+            var affectedRows = connection.Execute(sqlSpeakerInsert, new { speaker.FullName, speaker.Bio, speaker.WebSite });
+            return affectedRows;
         }
     }
 }

@@ -9,3 +9,4 @@ C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet8\ConferencePlann
 C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet8\ConferencePlanner.Entities\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet8\ConferencePlanner.Entities\obj\Debug\netcoreapp3.1\ConferencePlanner.Entities.csprojAssemblyReference.cache
 C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet8\ConferencePlanner.Entities\obj\Debug\netcoreapp3.1\ConferencePlanner.Entities.csproj.CopyComplete
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet8\ConferencePlanner.Entities\obj\Debug\netcoreapp3.1\ConferencePlanner.Entities.csproj.CoreCompileInputs.cache

@@ -27,3 +27,4 @@ C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet8\ConferencePlann
 C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet8\ConferencePlanner.App\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet8\ConferencePlanner.App\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
 C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet8\ConferencePlanner.App\bin\Debug\netcoreapp3.1\ConferencePlanner.Data.dll
+C:\Users\cristina\source\repos\cristina-b\DotNetTraining\DotNet8\ConferencePlanner.App\obj\Debug\netcoreapp3.1\ConferencePlanner.App.csproj.CoreCompileInputs.cache

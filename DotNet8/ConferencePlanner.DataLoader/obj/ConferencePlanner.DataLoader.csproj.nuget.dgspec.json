@@ -107,7 +107,11 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\cristina\\source\\repos\\cristina-b\\DotNetTraining\\DotNet8\\ConferencePlanner.Entities\\ConferencePlanner.Entities.csproj": {
+                "projectPath": "C:\\Users\\cristina\\source\\repos\\cristina-b\\DotNetTraining\\DotNet8\\ConferencePlanner.Entities\\ConferencePlanner.Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -120,6 +124,14 @@
         "netcoreapp3.1": {
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[3.1.5, )"
             },

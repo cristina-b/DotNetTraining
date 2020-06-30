@@ -30,6 +30,9 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DBConnection", "..\DBConnection\DBConnection.csproj", "{BB823B8F-4302-45D6-8F8B-46181E95F2D5}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConferencePlanner.App", "..\DotNet8\ConferencePlanner.App\ConferencePlanner.App.csproj", "{86C50AFE-0F03-45E1-B166-1998EB108222}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6D337590-4687-4A52-A417-CA8D351E3927} = {6D337590-4687-4A52-A417-CA8D351E3927}
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConferencePlanner.Data", "..\DotNet8\ConferencePlanner.Data\ConferencePlanner.Data.csproj", "{9D66B146-2A42-43B8-9648-A04465C71278}"
 EndProject

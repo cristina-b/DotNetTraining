@@ -4,6 +4,7 @@
     using Microsoft.EntityFrameworkCore;
     using Microsoft.EntityFrameworkCore.Metadata.Internal;
     using System.Collections.Generic;
+    using Microsoft.EntityFrameworkCore;
 
     public class ApplicationDbContext : DbContext
     {        
