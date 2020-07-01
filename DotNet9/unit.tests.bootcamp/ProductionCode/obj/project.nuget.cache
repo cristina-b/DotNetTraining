@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PY7CzRVB0T0oi1l8Fsdx2R5xTjgUSWBxc7m+6BVnc0yr4OHgbHhvjZjQAmN8SnEgX1nvMt/JOlmdhOMPcqFDjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cristina\\source\\repos\\cristina-b\\DotNetTraining\\DotNet9\\unit.tests.bootcamp\\ProductionCode\\ProductionCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cristina\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\cristina\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
