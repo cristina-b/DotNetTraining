@@ -143,19 +143,25 @@ namespace xUnit.FullFramework.Mocks
         [InlineData("2017-01-01 13:00:00", LunchNotifier.LateLunchTemplate)]
         [InlineData("2017-01-01 12:59:59", LunchNotifier.RegularLunchTemplate)]
         public void Test_CorrectTemplateIsUsed_LateLunch_Seam(string currentTime, string expectedTemplate)
-        {
+        {            
             //
             // Create mocks:
             //
             var loggerMock = new Moq.Mock<ILogger>();
 
             var bobMock = new Moq.Mock<IEmployee>();
+            bobMock.Setup(x => x.IsWorkingOnDate(It.IsAny<DateTime>()))
+                .Returns(true);
+
             /*
             * Configure mock so that employee is considered working today and gets notifications via email
             *
             */
 
             var employeeServiceMock = new Moq.Mock<IEmployeeService>();
+            employeeServiceMock.Setup(x => x.GetEmployeesInNewYorkOffice())
+                .Returns(new[] { bobMock.Object });
+
             /*
             * Configure mock so to return employee from above
             *
@@ -163,16 +169,18 @@ namespace xUnit.FullFramework.Mocks
 
             var notificationServiceMock = new Moq.Mock<INotificationService>();
 
-
             //
             // Create instance of class I'm testing:
             //
-            Mock<LunchNotifier_UsingSeam> classUnderTest = new Moq.Mock<LunchNotifier_UsingSeam>(notificationServiceMock, employeeServiceMock, loggerMock);
+            var classUnderTest = new Moq.Mock<LunchNotifier_SeamAndExplicitInterface>(notificationServiceMock.Object, employeeServiceMock.Object, loggerMock.Object)
+            { CallBase = true };
+            classUnderTest.As<IDateTimeOverridable>().Setup(x => x.GetDateTime())
+                          .Returns(DateTime.Parse(currentTime));
             /*
              * Create a partial mock of the LunchNotifier_UsingSeam class and change the GetDateTime() behavior to return DateTime.Parse(currentTime)
              *
              */
-           
+
             //
             // Run some logic to test:
             //

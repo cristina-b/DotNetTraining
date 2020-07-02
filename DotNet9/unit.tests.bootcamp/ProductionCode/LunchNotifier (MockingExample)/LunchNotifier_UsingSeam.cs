@@ -17,9 +17,16 @@
         }
 
 
-        public virtual DateTime GetDateTime()
+        public virtual DateTime GetDateTime(string currentTime = null)
         {
-            return DateTime.Now;
+            if (currentTime != null)
+            {
+                return DateTime.Parse(currentTime);
+            }
+            else
+            {
+                return DateTime.Now;
+            }            
         }
 
         /// <summary>

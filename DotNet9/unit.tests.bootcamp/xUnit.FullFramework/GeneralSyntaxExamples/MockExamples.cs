@@ -243,7 +243,7 @@ namespace xUnit.FullFramework
             //
             var classUnderTest = new Moq.Mock<LunchNotifier_UsingSeam>(notificationServiceMock.Object, employeeServiceMock.Object, loggerMock.Object)
                 { CallBase = true };
-            classUnderTest.Setup(x => x.GetDateTime())
+            classUnderTest.Setup(x => x.GetDateTime(currentTime))
                 .Returns(DateTime.Parse(currentTime));
 
             //
