@@ -13,5 +13,6 @@ namespace ConferencePlanner.Data
         Task<IEnumerable<Session>> GetAllSessions(int id);
 
         Task<int> Save(Speaker speaker);*/
+
     }
 }
