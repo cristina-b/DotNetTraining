@@ -9,6 +9,8 @@ using GeneralStore.Data;
 using GeneralStore.Entities;
 using Microsoft.AspNetCore.Authorization;
 using System.Security.Cryptography;
+using System.Net;
+using System.Text;
 
 namespace GeneralStore.Controllers
 {
@@ -17,6 +19,9 @@ namespace GeneralStore.Controllers
     [Authorize]
     public class CategoryController : ControllerBase
     {
+        const string ETAG_HEADER = "ETag";
+        const string MATCH_HEADER = "If-Match";
+
         private readonly ApiDbContext _context;
 
         public CategoryController(ApiDbContext context)
@@ -58,19 +63,7 @@ namespace GeneralStore.Controllers
             if (id != category.Id)
             {
                 return BadRequest();
-            }
-
-            var categoryText = $"{category.Id}|{category.Name}";
-            using (var md5 = MD5.Create())
-            {
-                byte[] retVal = md5.ComputeHash(System.Text.Encoding.Unicode.GetBytes(categoryText));
-                StringBuilder sb = new StringBuilder();
-                for (int i = 0; i < retVal.Length; i++)
-                {
-                    sb.Append(retVal[i].ToString("x2"));
-                }
-                return sb.ToString();
-            }
+            }            
 
             _context.Entry(category).State = EntityState.Modified;
 
@@ -90,20 +83,15 @@ namespace GeneralStore.Controllers
                 }
             }
 
-            //return NoContent();
-            // Construct the new ETag
-            string responseETag = Convert.ToBase64String(category.Id);
+            var eTag = HashFactory.GetHash(category);
+            HttpContext.Response.Headers.Add(ETAG_HEADER, eTag);
 
-            // Return a 304 if the ETag of the current record matches the ETag in the "If-None-Match" HTTP header
-            if (Request.Headers.ContainsKey("If-None-Match") && responseETag == requestETag)
+            if (HttpContext.Request.Headers.ContainsKey(MATCH_HEADER) && HttpContext.Request.Headers[MATCH_HEADER].Contains(eTag))
             {
-                return StatusCode((int)HttpStatusCode.NotModified);
+                return new StatusCodeResult(304);
             }
 
-            // Add the current ETag to the HTTP header
-            Response.Headers.Add("ETag", responseETag);
-
-            return Ok(contact);
+            return Ok(category);
         }
 
         // POST: api/Category

@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "in4q0WEYV2/7EUtaZhdQjEaqbvgMv8rsZ/mnw1eOBS/5n3IjPrOyN74ld/e/u9rUzJe8M0oPpUd4c4z3gsv6Mg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cristina\\source\\repos\\cristina-b\\DotNetTraining\\GeneralStore\\GeneralStoreHttpClient\\GeneralStoreHttpClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cristina\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.6\\microsoft.extensions.configuration.3.1.6.nupkg.sha512",
+    "C:\\Users\\cristina\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.6\\microsoft.extensions.configuration.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\cristina\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.6\\microsoft.extensions.configuration.binder.3.1.6.nupkg.sha512",
+    "C:\\Users\\cristina\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.6\\microsoft.extensions.dependencyinjection.3.1.6.nupkg.sha512",
+    "C:\\Users\\cristina\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6\\microsoft.extensions.dependencyinjection.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\cristina\\.nuget\\packages\\microsoft.extensions.http\\3.1.6\\microsoft.extensions.http.3.1.6.nupkg.sha512",
+    "C:\\Users\\cristina\\.nuget\\packages\\microsoft.extensions.http.polly\\3.1.6\\microsoft.extensions.http.polly.3.1.6.nupkg.sha512",
+    "C:\\Users\\cristina\\.nuget\\packages\\microsoft.extensions.logging\\3.1.6\\microsoft.extensions.logging.3.1.6.nupkg.sha512",
+    "C:\\Users\\cristina\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.6\\microsoft.extensions.logging.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\cristina\\.nuget\\packages\\microsoft.extensions.options\\3.1.6\\microsoft.extensions.options.3.1.6.nupkg.sha512",
+    "C:\\Users\\cristina\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\microsoft.extensions.primitives.3.1.6.nupkg.sha512",
+    "C:\\Users\\cristina\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\cristina\\.nuget\\packages\\polly\\7.1.0\\polly.7.1.0.nupkg.sha512",
+    "C:\\Users\\cristina\\.nuget\\packages\\polly.extensions.http\\3.0.0\\polly.extensions.http.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
